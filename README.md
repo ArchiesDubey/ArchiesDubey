@@ -24,8 +24,9 @@
 😄 Pronouns: Passionate | Driven | Ambitious 
 
 
-⚡ Fun fact: Shiba Inu To Moon!!
+⚡ Fun fact: Shiba Inu To Moon :dog: !!
 
+![Archies's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArchiesDubey&show_icons=true&theme=dracula)
 
 
 <!--
