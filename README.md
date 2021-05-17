@@ -1,6 +1,8 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-
+<a href="https://www.linkedin.com/in/archies-dubey/">
+  <img align="left" alt="Archies Dubey | Linkedin" width="20px" src="https://raw.githubusercontent.com/harsh07bharvada/harsh07bharvada/master/assets/linkedin.svg" />
+</a>
 
 🔭 I’m currently working on Node.js, Express.js & MongoDB ( yeah mainstream stuff...I know, I know :grin: )
 
